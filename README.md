@@ -1,2 +1,5 @@
 # Stack-n-Queue
-This repo contains the implementations of a stack and a queue in C.
+
+The stack.c file contains an example of stack implementation made in C, using a simple list.
+The queue.c file contains an example of queue implementation made in C, using a circular static array.
+
